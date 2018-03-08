@@ -81,10 +81,10 @@ Email: gwarner@mgh.harvard.edu
 
 ## AWARDS AND ORGANIZATIONS
 ### College of Charleston
--	Psi Chi – National Honors Society for Psychology Majors *Initiated November, 2012*
--	Highly Distinguished Category of Faculty Honors *Fall, 2013*
--	Distinguished Category of Faculty Honors *Fall, 2011; Spring, 2011; Fall 2012; Spring, 2014*
--	Neuroscience Club Member *Initiated September, 2012*
--	Psychology Club Member *Initiated September, 2012*
+-	Psi Chi National Honors Society for Psychology Majors - *Initiated November, 2012*
+-	Highly Distinguished Category of Faculty Honors - *Fall, 2013*
+-	Distinguished Category of Faculty Honors - *Fall, 2011; Spring, 2011; Fall 2012; Spring, 2014*
+-	Neuroscience Club Member - *Initiated September, 2012*
+-	Psychology Club Member - *Initiated September, 2012*
 ### Massachusetts General Hospital
--	Recipient of blue ribbon in group project category at MGH Clinical Research Day *Spring 2015*                       	                             
+-	Recipient of blue ribbon in group project category at MGH Clinical Research Day - *Spring 2015*                       	                             
