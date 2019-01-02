@@ -6,7 +6,7 @@ Email: warnergr@musc.edu
 ## EDUCATION
 
 ### Medical University of South Carolina - Ph.D. in Neuroscience (in progress)
-**August, 2018 - Present
+**August, 2018 - Present**
 
 ### College of Charleston - B.S. Psychology, Minor in Neuroscience
 **August, 2010 - May, 2014**
