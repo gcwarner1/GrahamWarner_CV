@@ -12,7 +12,7 @@ San Francisco, CA · grahamwarner@protonmail.com · [GitHub](https://github.com/
 
 ---
 
-##Experience
+## Experience
 
 ### Stanford University · Department of Psychiatry and Behavioral Sciences
 **Postdoctoral Scholar** · Palo Alto, CA · April 2025 – Present
