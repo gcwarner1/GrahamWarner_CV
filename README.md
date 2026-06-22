@@ -1,94 +1,97 @@
-# GRAHAM CARY WARNER
+# Graham Warner, PhD
 
-## Contact
-Email: warnergr@musc.edu
+San Francisco, CA · grahamwarner@protonmail.com · [GitHub](https://github.com/gcwarner1) · [LinkedIn](https://www.linkedin.com/in/graham-warner-phd-3645aaa1/)
 
-## EDUCATION
+---
 
-### Medical University of South Carolina - Ph.D. in Neuroscience (in progress)
-**August, 2018 - Present**
+## Education
 
+**Ph.D., Neuroscience** (Biomedical Sciences Program) · Medical University of South Carolina · January 2025
 
-### College of Charleston - B.S. Psychology, Minor in Neuroscience
-**August, 2010 - May, 2014**
+**B.S., Psychology** (Minor in Neuroscience) · College of Charleston · May 2014
 
-**Bachelor’s Essay in Neuroscience: Role of Context in Object Recognition**
-- P.I. Thomas Naselaris Ph.D.		
+---
 
-## RESEARCH EXPERIENCE
+##Experience
 
-### Massachusetts General Hospital/HST, Athinoula A. Martinos Center for Biomedical Imaging, Boston, MA
-##### January 2015 – May 2018
-*Research Technician and Data Curator - P.I. Karl Helmer, Ph.D*
+### Stanford University · Department of Psychiatry and Behavioral Sciences
+**Postdoctoral Scholar** · Palo Alto, CA · April 2025 – Present
 
-#### TRANSFORM-DBS: Closed-Loop Deep Brain Stimulation for National Priority Disorders
-- **The goal for the Data Management core was to develop a public-facing, web-accessible, data management system to house multimodal data for the [MGH DARPA SUBNETS](https://transformdbs.partners.org/?q=transform-dbs). Principle duties included:**
-  - Develop python based software packages to remove PHI from MRI, CT, MEG, and electrophysiology data while simultaneously creating metadata rich database entries for each dataset.
-  -Develop software to automatically organize and securely transfer large datasets via Globus (GridFTP) and standard file transfer protocols.
-  -	NoSQL (CouchDB) database development.
-  -	Perform basic Linux system administration duties.
-  -	Serve as administrator of project GitHub organization.
-  -	Author user manual and standard operation procedures for website and database.
-  -	Create FDA part 11 compliant audit trail system.
-  -	Create docker-based application to anonymize MRI data.
-  -	Act as liaison between various labs involved in project.
-  -	Develop software to monitor status of database and send out team wide alerts when system failures and errors occur.
-  -	Develop unit-testing code for all project software. 
-  -	Train new employees in database/website usage.
-  -	Serve as supervisor for summer intern
+- Serve as PI on a first-in-human FDA IND-regulated PET neuroimaging study using the novel tracer 18F-PI-2620, authoring regulatory documentation and overseeing compliance across all study phases
+- Lead analytics on active TMS clinical trials targeting psychiatric disorders, designing workflows to track clinical outcomes and intervention efficacy across longitudinal cohorts
+- Develop scalable Python-based preprocessing and analysis pipelines for multimodal clinical datasets (fMRI, PET, EHR), enabling reproducible analysis and rigorous quality monitoring
+- Apply machine learning, statistical inference, and network analysis to high-dimensional neural datasets to characterize treatment-induced changes in brain connectivity and function
+- Evaluate and integrate LLM-based tools into clinical research workflows, including automated extraction and summarization of clinical documentation; review model outputs against clinical standards
+- Design and execute human-subject research protocols combining neuroimaging and neuromodulation to investigate substance use disorders, including closed-loop and individualized stimulation paradigms
+- Mentor three research assistants; communicate findings to interdisciplinary teams including clinicians, statisticians, and non-technical stakeholders
+- Author IRB protocols, study procedures, and grant applications
 
-#### Characterization of Diffusion Metric Map Similarity in Data from a Clinical PACS using the Histogram Distance
-- **The goal of this project was to characterize the differences in fractional anisotropy (FA) and mean diffusivity (MD) maps calculated from diffusion tensor imaging data in response to a range of acquisition parameters such as b-value, number of gradient directions, field strength, and MRI manufacturer Principle duties included:**
-  -	Develop automated DTI preprocessing pipeline using a combination of FSL and in-house written bash and python code.
-  -	Write natural language processing code to differentiate healthy and non-healthy individuals based on radiology reports.
-  -	Write python code to parse dicom headers and differentiate diffusion data from other MRI data types.
-  -	Write python code to analyze and compare FA and MD maps between acquisition parameter subpopulations.
-  -	Write manuscript on findings.
+---
 
-### Medical University of South Carolina, Department of Neuroscience, Charleston, SC
-#### January 2013 – May 2014
-*Research Assistant - P.I. Thomas Naselaris, Ph.D.*
+### Palo Alto VA Medical Center
+**Psychology Fellow – Data Science Program** · Palo Alto, CA · April 2025 – Present
 
-### Role of Context in Object Recognition
-- **The goal of this project was to determine the degree to which context facilitates object recognition using computer-based image response tests in conjunction with fMRI. Principle duties included:**
-  -	Assist in experimental design process. 
-  -	Python based stimuli generation and image manipulation.
-  -	Develop stimuli presentation and subject response logging software using Python and PsychoPy.
-  -	Python and Microsoft Excel based data analysis. 
-  -	Write natural language processing code to categorize objects in scene as either human, non-human animal, natural object, or man-made object.
+- Design and execute data-driven analyses of large-scale EHR data (VINCI infrastructure) to support clinical research and operational decision-making across mental health and psychiatric populations
+- Build and maintain Azure-based ETL pipelines for EHR data processing and downstream modeling
+- Integrate LLM APIs for predictive modeling from clinical notes and structured EHR fields; evaluate outputs for clinical accuracy and safety in high-stakes healthcare contexts
+- Prototype and assess LLM-based tools for clinical documentation analysis
+- Collaborate with clinical psychologists, psychiatrists, and research teams to translate analytical questions into rigorous study designs and actionable findings
 
-### The Carroll School, Lincoln, MA
-#### May 2013 – August 2013
-*Research Assistant - P.I. Eric Falke, M.D.*
+---
 
-### Dyslexia Treatment Research
-- **The goal of this project was to determine the efficacy of various computer-based treatments on dyslexic subpopulations. Principle duties included:**
-  -	Administer various profiling tests and treatments (namely Cogmed and PositScience) to middle school aged dyslexic students.
-  -	Administer tests to evaluate changes in working memory and other cognitive faculties.
-  -	Analyze longitudinal changes in cognitive faculties as they relate intervention technique and specific cognitive deficits.
-  -	Compose written evaluations of each student’s progress.
+### Medical University of South Carolina
+**Doctoral Candidate, Neuroscience** · Charleston, SC · August 2018 – January 2025
 
-## SKILLS
--	Programming Languages: Python, Shell scripting
--	Operating Systems: Linux, Mac OS, Windows
--	Software and Applications: FSL, Freesurfer, SPSS, DSI Studio, PsychoPy, CouchDB, SQL, Globus, GitHub, Cogmed, PositScience, Microsoft Office, Docker, DicomBrowser, DataView, WinWCP
+- Investigated neural mechanisms underlying psychiatric and neurological conditions using machine learning, NLP, network analysis, and predictive modeling on high-dimensional clinical datasets
+- Developed and validated predictive models linking brain network biomarkers to clinical outcomes, contributing to the evidence base for neurobiologically-informed treatment approaches
+- Built NLP annotation pipelines for automated classification of clinical and behavioral data using the SUN database, supporting scalable analysis of unstructured datasets
+- Developed computational models of brain network organization using graph-theoretic methods to characterize disease-related changes in neural architecture and predict patient recovery trajectories following stroke
+- Built and optimized end-to-end neuroimaging preprocessing pipelines (signal denoising, motion correction, physiological nuisance regression, ICA-based artifact identification), substantially improving data quality for downstream analysis
+- Applied a broad computational toolkit across neural and clinical datasets: regression modeling, machine learning, NLP, network analysis, PCA/ICA, and time-series statistical methods
+- Designed and administered cognitive and behavioral paradigms using PsychoPy, Psychtoolbox, and E-Prime across diverse clinical participant populations
+- Authored IRB submissions, study protocols, SOPs, and regulatory documentation
+- **Awarded NIH Ruth L. Kirschstein NRSA Predoctoral Fellowship (F31)** — the most prestigious individual award available to predoctoral candidates
+- Founded and organized the *"From the Lab to Recovery"* symposium series at MUSC, connecting mental health researchers with recovery-focused nonprofits and translating scientific findings for non-specialist audiences
 
-## PUBLICATIONS
--	**Warner GC** and Helmer KG (2018) Characterization of Diffusion Metric Map Similarity in Data From a Clinical Data Repository Using Histogram Distances. Front. Neurosci. 12:133. doi: 10.3389/fnins.2018.00133
+---
 
-## POSTERS
--	**WARNER, G.**, WANG, Q., HELMER, K. (2016). TRANSFORMDM: A DATA MANAGEMENT SYSTEM FOR MULTI-MODALITY IMAGING DATA. PRESENTED AT AMERICAN MEDICAL INFORMATICS ASSOCIATION (AMIA), CHICAGO, IL.
--	**WARNER, G.**, WANG, Q., HELMER, K. (2016). TRANSFORMDM: A DATA MANAGEMENT SYSTEM FOR MULTI-MODALITY IMAGING DATA. PRESENTED AT MARTINOS CENTER OPEN HOUSE, BOSTON, MA.
--	**WARNER, G.**, WANG, Q., HELMER, K. (2015). TRANSFORMDM: A DATA MANAGEMENT SYSTEM FOR MULTI-MODALITY IMAGING DATA. PRESENTED AT MARTINOS CENTER RETREAT, ROCKPORT, MA.
--	**WARNER, G.**, WANG, Q., HELMER, K. (2015). TRANSFORMDM: A DATA MANAGEMENT SYSTEM FOR MULTI-MODALITY IMAGING DATA. PRESENTED AT MASSACHUSETTS GENERAL HOSPITAL CLINICAL RESEARCH DAY, BOSTON, MA. ***
--	**WARNER, G.**, NASELARIS, T. (2014). OBJECT RECOGNITION AND CONTEXT. PRESENTED AT SYNAPSE, ASHEVILLE, NC.
-
-## AWARDS AND ORGANIZATIONS
-### College of Charleston
--	Psi Chi National Honors Society for Psychology Majors - *Initiated November, 2012*
--	Highly Distinguished Category of Faculty Honors - *Fall, 2013*
--	Distinguished Category of Faculty Honors - *Fall, 2011; Spring, 2011; Fall 2012; Spring, 2014*
--	Neuroscience Club Member - *Initiated September, 2012*
--	Psychology Club Member - *Initiated September, 2012*
 ### Massachusetts General Hospital
--	Recipient of blue ribbon in group project category at MGH Clinical Research Day - *Spring 2015*                       	                             
+**Research Technician & Data Governance Specialist** · Boston, MA · January 2015 – May 2018
+
+- Core member of **TRANSFORM-DBS**, a DARPA-funded program to develop a clinically viable closed-loop deep brain stimulation system from first principles
+- Contributed to experimental workflows involving multimodal neural data acquisition (MRI, PET, MEG, CT, EPhys) in a regulated clinical research environment
+- Designed and built FAIR-compliant cloud database infrastructure (AWS, SQL/NoSQL) for large-scale multimodal biomedical data, supporting compliant storage and analysis of electrophysiological, imaging, and clinical datasets
+- Developed a novel quantitative metric for assessing signal quality in biomedical imaging data, subsequently published in peer-reviewed literature
+- Built automated Python pipelines for real-time data ingestion, synchronization, and cloud upload via GridFTP API across distributed acquisition systems
+- Developed automated data validation and QC alerting systems to detect pipeline failures and data integrity issues in real time
+- Prototyped NLP-based approaches for automated phenotype classification using large-scale EHR data; developed Docker-based tool for clinical data de-identification
+- Worked with clinical terminologies including ICD/CPT coding and FHIR-based database schemas (MGH database infrastructure)
+- Authored FDA-compliant SOPs, data dictionaries, and regulatory documentation for data pipelines in a regulated BCI research program
+- Served as cross-functional liaison across neuroscience, engineering, and clinical teams
+
+---
+
+### The Carroll School
+**Research Assistant** · Lincoln, MA · May 2013 – August 2013
+
+- Administered digital learning interventions and diagnostic assessments directly to students with neurodiverse learning profiles, collecting behavioral and performance data in a structured clinical research context
+- Designed and executed A/B tests to evaluate the efficacy of digital intervention formats; analyzed engagement and outcome data to identify evidence-based improvements to program design
+
+---
+
+## Grants & Awards
+
+- **NIH Ruth L. Kirschstein NRSA Individual Predoctoral Fellowship (F31)** — NIAAA
+- **SC INBRE Student Initiated Research Project (SIRP) Award**
+
+---
+
+## Selected Publications
+
+- Wilmskoetter, J. et al. (2021). Indirect white matter pathways are associated with treated naming improvement in aphasia. *American Society of Neurorehabilitation.*
+
+- Warner GC and Helmer KG (2018). Characterization of diffusion metric map similarity in data from a clinical data repository using histogram distances. *Frontiers in Neuroscience.*
+
+---
+
+*Last updated June 2026*
